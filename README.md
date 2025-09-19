@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working as a Software Engineer in the Robotics team at ImFusion GmbH
+- 🌱 I’m currently learning Topology and Finances
+- 📫 How to reach me:
+    - email: pablo.arandarod@gmail.com
+- Hobbies: boxing, gym, running, guitar, hiking
 <!--
 **PabloDArandaR/PabloDArandaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
